@@ -1,1 +1,4 @@
 hola mi nombre es edinson rojas
+edad 37
+gusto: deporte, estudiar , leer , viajar
+priodirades
