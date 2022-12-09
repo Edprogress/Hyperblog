@@ -1,0 +1,47 @@
+commit 06175fc415ee00a2ef6c4bf497846e87a60c20a0
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Fri Dec 9 14:20:58 2022 -0500
+
+     intercambio de palabra en la misma posicion
+
+commit 40490e7cff23e869429b253b3424bec98b623b82
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Fri Dec 9 14:19:11 2022 -0500
+
+     intercambio de palabra en la misma posicion
+
+commit e24c834012c56e3c947693fe1601acf817ff0b59
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Fri Dec 9 14:11:32 2022 -0500
+
+     modifco achivo prueba  comentario
+
+commit 921a04bc30bb24a8f156742ce2e2042fdd521b7b
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Fri Dec 9 13:15:18 2022 -0500
+
+     Cambio a prueba en la rama2
+
+commit 58c45b46981626db3c78872b18e4019868aafaa9
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Mon Dec 5 09:47:25 2022 -0500
+
+     Modficiacion del archivo prueba
+
+commit 4eda7686cb8a057a168846c09aa06e1f60f1793f
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Sat Dec 3 12:15:24 2022 -0500
+
+     Archivo original
+
+commit 4d87b3cfcc19ae23f2480f66b8040f106b085ce0
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Fri Dec 2 09:39:56 2022 -0500
+
+     Version original
+
+commit 41ebcdbfcb48728f9b039fb8bd5b9501e3f83df8
+Author: Edinson Rojas <edinsonrojas@hotmail.com>
+Date:   Thu Dec 1 13:10:11 2022 -0500
+
+    primer commit de este archivo
