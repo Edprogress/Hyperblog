@@ -43,8 +43,15 @@ body
 }
 #footer
 {
-    background: rgb(46, 5, 133);
+    background: rgb(26, 5, 133);  
     color: white;
     text-align: center;
-    padding: 0.5em;
+    padding: 0.0em;
+}
+
+#footer #logo
+
+{
+    width: 40px;
+    vertical-align: middle;
 }
