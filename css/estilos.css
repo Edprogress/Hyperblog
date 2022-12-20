@@ -57,7 +57,9 @@ body
 #post
 {
     background: white;
+    text-align: center;
     padding: 1em;
+    vertical-align: middle;
 }
 
 #footer #logo
