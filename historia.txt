@@ -4,3 +4,5 @@ estoy estudnando en platzy
 este es el archivo clonado desde github como colaborador ejercicio de colaborador del un proyecto
 
 Master 1
+
+Master 2
