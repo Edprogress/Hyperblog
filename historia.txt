@@ -1,4 +1,6 @@
 hola mi nombre es edinso rojas
 edad 37
 estoy estudnando en platzy 
-este es el archivo clonado desde github como colaborador[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C ejercicio de colaborador del un proyecto
+este es el archivo clonado desde github como colaborador ejercicio de colaborador del un proyecto
+
+Master 1
