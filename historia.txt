@@ -3,9 +3,9 @@ edad 37
 estoy estudnando en platzy 
 este es el archivo clonado desde github como colaborador ejercicio de colaborador del un proyecto
 
-expiremnto 1
- 
+experimento 1
 
+experimento 2
 
 Master 1
 
